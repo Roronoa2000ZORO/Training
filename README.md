@@ -1,7 +1,2 @@
-echo "# Training" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Roronoa2000ZORO/Training.git
-git push -u origin main
+Практика C++
+Первая мини программа "Transportation"/Перевозка - созданна для автобусной службы, для подсчета количества свободных мест в последнем рейсе.
